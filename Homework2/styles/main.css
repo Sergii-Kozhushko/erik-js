@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 20px;
+}
+h1, h2{
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+body{
+    
+}
+.courses, .currency-list{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    margin-bottom: 30px;
+}
+.currency-list > h2{
+    margin-bottom: 30px;
+}
+.currency-list > ul{
+    margin-left: 40px;
+    
+}
+.courses >h1{
+    margin-bottom: 30px;
+}
+.courses > table {
+    border: 1px solid black;
+    border-collapse: separate;
+    border-spacing: 4px;
+    
+    
+}
+.courses > table >tbody>tr>td, .courses > table >thead>tr>th{
+    
+    border: 1px solid black;
+    padding: 4px;
+    
+}
