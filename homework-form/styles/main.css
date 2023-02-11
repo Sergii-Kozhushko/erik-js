@@ -99,5 +99,8 @@ form .button-enter:hover{
     top: 20px;
     left: 380px
 }
+.x-icon:hover{
+    cursor: pointer;
+}
 
 
