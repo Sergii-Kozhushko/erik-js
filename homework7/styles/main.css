@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+.numbers{
+    font-size: 20px;
+    border: 1px solid black;
+}
+.usercontainer{
+    font-size: 20px;
+    line-height: 25px;
+}
